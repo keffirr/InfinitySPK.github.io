@@ -32,6 +32,17 @@ a {
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
 }
+{
+  <html>
+  <head>
+    <meta charset="utf-8">
+    <title>Мои рисунки</title>
+  </head>
+  <body>
+    <p><img src="images/projects/GS.png" alt="Письма мастера дзен"></p>
+  </body>
+  </html>
+}
 a:hover {
   text-decoration: underline;
   color: #5f6b77;
